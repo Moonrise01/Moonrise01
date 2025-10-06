@@ -32,5 +32,4 @@ I'm a Computer Science student currently doing my **BUT Informatique** (French B
 ---
 
 ### 📫 Contact
-- ✉️ Email: your.email@example.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/marta-azenha-nascimento-405795364/)
