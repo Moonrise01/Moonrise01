@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Marta
 
-I'm a Computer Science student currently doing my **BUT Informatique** (French Bachelor of Applied Science in Computer Science) in France.
+I'm a Computer Science student pursuing a **BUT Informatique** (Bachelor of Technology in Computer Science) in France. 
 
 ---
 
 ### 💻 Tech Stack
-- **Languages:** Java, JavaScript, SQL  
-- **Frameworks:** Spring Boot, Express.js  
+- **Languages:** Java, JavaScript, 
 - **Databases:** PostgreSQL  
 - **Tools & Systems:** Docker, Git, Linux (Ubuntu Server)
 
@@ -19,7 +18,7 @@ I'm a Computer Science student currently doing my **BUT Informatique** (French B
 
 ---
 
-## 📊 GitHub Activity
+### 📊 GitHub Activity
 
 <div align="center">
   
