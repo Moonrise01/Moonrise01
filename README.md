@@ -1,27 +1,23 @@
 # 👋 Hi, I'm Marta
 
-Computer Science student pursuing a **BUT Informatique** in France, passionate about building robust web applications and backend systems. I love diving into new technologies and turning ideas into working solutions.
+I'm a Computer Science student currently doing my **BUT Informatique** (French Bachelor of Applied Science in Computer Science) in France.
 
-## 🚀 What I'm Working With
+---
 
-**Languages & Frameworks**  
+### 💻 Tech Stack
+- **Languages:** Java, JavaScript, SQL  
+- **Frameworks:** Spring Boot, Express.js  
+- **Databases:** PostgreSQL  
+- **Tools & Systems:** Docker, Git, Linux (Ubuntu Server)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**DevOps & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 💡 Current Focus
-
-- Building scalable backend architectures
-- Exploring containerization and deployment strategies
-- Strengthening my full-stack development skills
+---
 
 ## 📊 GitHub Activity
 
@@ -32,13 +28,8 @@ Computer Science student pursuing a **BUT Informatique** in France, passionate a
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moonrise01&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)
 
 </div>
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marta-azenha-nascimento-405795364/)
-
 ---
 
-<div align="center">
-  <i>Always learning, always building 🌱</i>
-</div>
+### 📫 Contact
+- ✉️ Email: your.email@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/marta-azenha-nascimento-405795364/)
