@@ -21,7 +21,7 @@ I enjoy creating web and backend projects, and I'm always exploring new technolo
 
 ### 📊 GitHub Stats
 
-![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonrise001&show_icons=true&theme=tokyonight)  
+![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonrise01&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonrise01&layout=compact&theme=tokyonight)
 
 ---
