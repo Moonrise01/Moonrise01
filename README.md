@@ -28,6 +28,7 @@ I'm a Computer Science student currently doing my **BUT Informatique** (French B
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moonrise01&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)
 
 </div>
+
 ---
 
 ### 📫 Contact
