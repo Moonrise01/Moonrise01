@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marta
+# 👋 Hi, I'm Marta Azenha Nascimento
 
 I'm a Computer Science student pursuing a **BUT Informatique** (Bachelor of Technology in Computer Science) in France. 
 
