@@ -35,4 +35,4 @@ I'm a Computer Science student pursuing a **BUT Informatique** (Bachelor of Tech
 ---
 
 ### 📫 Contact
-- 💼 [LinkedIn](https://www.linkedin.com/in/marta-azenha-nascimento/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/marta-azenha-nascimento)
