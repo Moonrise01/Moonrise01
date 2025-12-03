@@ -7,15 +7,13 @@
 
 ---
 
-</div>
 
 ## 🌟 About Me
 
 I'm **Marta Azenha Nascimento**, a Computer Science student (BUT Informatique, France).  
 Passionate about **web development** and **AI**, always curious and always learning.
 
-<div align="center">
-
+</div>
 
 ---
 
