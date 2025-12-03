@@ -17,9 +17,9 @@ Passionate about **web development** and **AI**, always curious and always learn
 
 ---
 
-## 🚀 Tech Stack
-
 <div align="center">
+  
+## 🚀 Tech Stack
 
 ### **Languages**
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
@@ -34,11 +34,13 @@ Passionate about **web development** and **AI**, always curious and always learn
 <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
-</div>
+
 
 ---
 
 ## 🌱 Currently Learning
+
+</div>
 
 - Basic computer vision concepts (personal interest)
 
