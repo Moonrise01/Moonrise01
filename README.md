@@ -22,8 +22,10 @@ Passionate about **web development** and **AI**, always curious and always learn
 ## 🚀 Tech Stack
 
 ### **Languages**
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+![Java](https://img.shields.io/badge/Java-%235a3be8%20→%237f8bff?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%235a3be8%20→%237f8bff?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%235a3be8%20→%237f8bff?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%235a3be8%20→%237f8bff?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### **Databases**
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
