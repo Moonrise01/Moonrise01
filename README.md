@@ -23,7 +23,7 @@ Passionate about **web development** and **AI**, always curious and always learn
 
 ### **Languages**
 ![Java](https://img.shields.io/badge/Java-%235a3be8%20→%237f8bff?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%235a3be8%20→%237f8bff?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%235a3be8%20→%237f8bff?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
