@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-I'm **Marta Azenha Nascimento**, a Computer Science student (BUT Informatique, France).  
+I'm **Moonrise**, a Computer Science student (BUT Informatique, France).  
 Passionate about **web development** and **AI**, always curious and always learning.
 
 </div>
