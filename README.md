@@ -59,7 +59,3 @@ Passionate about **web development** and **AI**, always curious and always learn
 </div>
 
 ---
-
-## 📫 Contact
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/marta-azenha-nascimento/)
